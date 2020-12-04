@@ -1,0 +1,19 @@
+.banner {
+	margin: 40px;
+    width: 500px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color: #F5CE63;
+    text-align: left;
+    font-family: nunito;
+    font-size: 25px;
+    color: #757575;
+
+}
+h2 {
+	font-size: 46px;
+	margin: 20px;
+    white-space: nowrap;
+	
+
+}

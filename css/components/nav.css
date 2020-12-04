@@ -1,0 +1,44 @@
+.container-navbar {
+	width: auto;
+	height: 4.5em;
+	background-color: white;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	position: relative;
+}
+
+.nav-menu {
+	margin:0;
+	position: absolute;
+    right: 120px;
+}
+
+.nav-menu li {
+	display: inline;
+	font-family: nunito;
+}
+
+.nav-menu a {
+	text-decoration: none;
+	color: #757575;
+	margin: 45px;
+
+}
+
+.nav-menu a:hover {
+	color: #9C9C9C;
+}
+
+#img-logo {
+	width: 210px;
+	border-radius: 0px;
+	height: initial;
+}
+
+#img-user {
+	width: 50px;
+	margin-right:50px;
+	height: 50px;
+
+}

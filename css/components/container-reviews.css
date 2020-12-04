@@ -1,0 +1,15 @@
+.container-reviews {
+	background-color: #F5CE63;
+	margin: 20px auto;
+	padding: 10px;
+	display: flex;
+	justify-content: space-around;
+}
+
+h3 {
+	color: #757575;
+	font-family: nunito;
+	text-align: center;
+	margin-top: 0em;
+}
+

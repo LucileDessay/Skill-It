@@ -1,0 +1,24 @@
+#people-picture {
+	height: 420px;
+	width: 323px;
+	border-radius: 100px;
+	position: absolute;
+	left: 811px;
+	top: 249px;
+	z-index: 10;
+	transition: border-radius 1s;
+}
+
+#people-picture:hover {
+	border-radius: 200px;
+}
+
+#bubble {
+	height: 603px;
+	width: 531px;
+	position: absolute;
+	 left: 716px;
+	 top: 137px;
+	 z-index: 1
+}
+
